@@ -82,3 +82,6 @@ Antes de comenzar, asegúrate de tener lo siguiente:
 
 Siguiendo estos pasos, puedes importar fácilmente aplicaciones en Oracle APEX utilizando archivos `.sql` exportados. Este proceso es esencial para migrar aplicaciones entre entornos o restaurar aplicaciones desde copias de seguridad.
 
+##LINK DEL VíDEO DE PRESENTACIÓN
+
+https://github.com/Checo894/hackmty2024
